@@ -4,6 +4,12 @@ BoostGPT Crisp is a streamlined and user-friendly startup script that enables yo
 
 <a href="https://discord.gg/FPTmDNjA"><img src="https://img.shields.io/discord/1100801013121822770?color=%bbccff&label=Discord" alt="Discord"></a>
 
+
+## Features
+
+- Can only reply messages when all operators are offline
+
+
 ## Requirements
 
 * Node v10 and above
@@ -37,10 +43,6 @@ After creating a project, you can get its project ID from the dashboard.
 You will need to have created a BoostGPT bot and have its ID.
 To get your bot's ID, go to your bot's settings page on the BoostGPT dashboard and copy the bot ID.
 
-
-## Features
-
-- Can only reply messages when all operators are offline
 
 
 ## Installation

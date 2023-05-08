@@ -7,7 +7,7 @@ BoostGPT Crisp is a streamlined and user-friendly startup script that enables yo
 
 ## Features
 
-- Can only reply messages when all operators are offline
+- Can only reply to messages when all operators are offline
 
 
 ## Requirements
@@ -16,11 +16,11 @@ BoostGPT Crisp is a streamlined and user-friendly startup script that enables yo
 
 * CRISP_PLUGIN_IDENTIFIER:
 
-This is a unique identifier that is associated with your Crisp plugin. The identifier will be listed under the plugin you have created. To get get your identifier, go to the Crisp market place and create a plugin. Find out how here: [https://docs.crisp.chat/guides/rest-api/authentication/](https://docs.crisp.chat/guides/rest-api/authentication/)
+This is a unique identifier that is associated with your Crisp plugin. The identifier will be listed under the plugin you have created. To get your identifier, go to the Crisp marketplace and create a plugin. Find out how here: [https://docs.crisp.chat/guides/rest-api/authentication/](https://docs.crisp.chat/guides/rest-api/authentication/)
 
 * CRISP_PLUGIN_KEY:
 
-This is an authentication key that is used to authorize access to your Crisp plugin. To get create your key, go to the Crisp market place and create a plugin. Find out how here: [https://docs.crisp.chat/guides/rest-api/authentication/](https://docs.crisp.chat/guides/rest-api/authentication/)
+This is an authentication key that is used to authorize access to your Crisp plugin. To get create your key, go to the Crisp marketplace and create a plugin. Find out how here: [https://docs.crisp.chat/guides/rest-api/authentication/](https://docs.crisp.chat/guides/rest-api/authentication/)
 
 
 * OPENAI_API_KEY:
@@ -79,7 +79,7 @@ Make sure to keep the .env file secure and not share it publicly, as it contains
 
 Run `node index.js` to start your bot. 
 
-We recommend using pm2 process manager to start your bot in production mode. 
+We recommend using the pm2 process manager to start your bot in production mode. 
 
 To do this you have to:
 

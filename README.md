@@ -38,6 +38,11 @@ You will need to have created a BoostGPT bot and have its ID.
 To get your bot's ID, go to your bot's settings page on the BoostGPT dashboard and copy the bot ID.
 
 
+## Features
+
+- Can only reply messages when all operators are offline
+
+
 ## Installation
 
 `git clone git@github.com:boostgpt/boostgpt-crisp.git`

@@ -1,0 +1,27 @@
+{
+  "name": "boostgpt-crisp",
+  "version": "1.0.0",
+  "description": "BoostGPT Crisp is a streamlined and user-friendly startup script that enables you to set up your own custom Crisp bot in a flash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "chatbot",
+    "AI",
+    "crisp",
+    "chatgpt",
+    "boostgpt",
+    "gpt",
+    "plugin",
+    "AGI"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "boostgpt": "^1.0.8",
+    "crisp-api": "^7.4.1",
+    "dotenv": "^16.0.3"
+  }
+}

@@ -9,6 +9,8 @@ BoostGPT Crisp is a streamlined and user-friendly startup script that enables yo
 
 - Can only reply to messages when all operators are offline
 
+- Can engage in a conversation.
+
 
 ## Requirements
 

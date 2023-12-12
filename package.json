@@ -4,6 +4,12 @@
   "description": "BoostGPT Crisp is a streamlined and user-friendly startup script that enables you to set up your own custom Crisp bot in a flash.",
   "main": "index.js",
   "scripts": {
+    "start": "npm run dev",
+    "dev": "NODE_ENV=development nodemon index.js",
+    "prod-debug": "NODE_ENV=production nodemon index.js",
+    "prod": "NODE_ENV=production pm2 start index.js --name boostgpt-crisp",
+    "prod-restart": "NODE_ENV=production pm2 restart index.js",
+    "stop": "pm2 stop index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

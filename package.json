@@ -1,6 +1,6 @@
 {
   "name": "boostgpt-crisp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BoostGPT Crisp is a streamlined and user-friendly startup script that enables you to set up your own custom Crisp bot in a flash.",
   "main": "index.js",
   "scripts": {
